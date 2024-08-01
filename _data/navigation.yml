@@ -1,0 +1,23 @@
+# main links
+main:
+    - title: "Blog"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Books"
+      url: /Books
+    - title: "Posts by Categories"
+      url: /categories/
+      description: Posts by Category
+
+    # - title: "Posts By Category"
+    #   url: /Posts-By-Category/
+
+  # - title: "About2"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+
+  # - title: "Sitemap"
+  #   url: /sitemap/  
+
