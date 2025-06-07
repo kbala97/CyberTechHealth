@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "P53: The Gene That Cracked The Cancer Code"
+title:  "The P53 gene that Cracked The Cancer Code"
 ---
  Fascinating book! p53 is dubbed "the guardian of the genome" and TP53 is classified as a tumor-blocker. It is the most commonly mutated gene in human cancer: It regulates cell growth and suicide.
 
