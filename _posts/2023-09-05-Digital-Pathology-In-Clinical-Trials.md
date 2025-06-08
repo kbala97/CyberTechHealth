@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "What Is the Role of Digital Pathology in Clinical Trials"
-categories: oncology
+categories: health
 
 ---
 From disease staging to pathologic complete response assessments, pathology guides the way toward precision medicine and targeted therapies.
