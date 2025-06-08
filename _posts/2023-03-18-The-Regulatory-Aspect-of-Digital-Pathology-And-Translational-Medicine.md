@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Regulatory Aspect of Digital Pathology and Translational Medicine"
-categories: oncology
+categories: health
 
 ---
 This podcast discusses the regulatory aspects of digital pathology and how it fits into translational medicine: The space between research and clinical use. 
