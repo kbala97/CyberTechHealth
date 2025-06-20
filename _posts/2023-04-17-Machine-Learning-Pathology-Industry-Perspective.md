@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "AI/Machine Learning From a Pathology Industry Perspective"
-categories: oncology
+categories: health
 
 ---
 This podcast discusses the fundamentals of machine learning algorithm development from an industry perspective. Topics include choosing a project, defining high quality data input, and milestones for completed algorithms.

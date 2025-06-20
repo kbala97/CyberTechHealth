@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Beyond Innovation Digital Pathology: How To Lead?"
-categories: oncology
+categories: health
 
 ---
 Prof. Inti Zlobec (University of Bern) leads digital pathology and bridges the gap between pathologists, computer scientists, and data scientists. 

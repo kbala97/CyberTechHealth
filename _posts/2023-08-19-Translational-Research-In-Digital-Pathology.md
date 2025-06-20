@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "What is Translational Research in Digital Pathology?"
-categories: oncology
+categories: health
 
 ---
 An excellent podcast on how scientific discoveries are translated into clinical patient practice! 

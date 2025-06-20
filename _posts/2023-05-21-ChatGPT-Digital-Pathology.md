@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "ChatGPT and AI in Digital Pathology"
-categories: oncology
+categories: health
 
 ---
 Fascinating discussion about the potential benefits of LLMs like ChatGPT in pathology and AI in automating slide scanning including quality control.

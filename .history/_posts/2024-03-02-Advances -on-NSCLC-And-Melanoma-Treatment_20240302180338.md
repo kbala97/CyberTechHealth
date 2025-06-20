@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Lab Impact on Cancer Diagnosis and Treatment with Biomarker Tests"
-categories: oncology
+categories: health
 
 ---
 Focused particularly on NSCLC and Melanoma, a discussion on the huge shift towards biomarker testing for targeted therapies and immunotherapies. 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Beginning Of Computational Pathology"
-categories: oncology
+categories: health
 
 ---
 Throughout the evolution of the field of computational pathology the focus has shifted from research-oriented work to direct collaboration with clinicians to test AI in diagnostic practice. 

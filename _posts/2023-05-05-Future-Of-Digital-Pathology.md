@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Future of Digital Pathology"
-categories: oncology
+categories: health
 
 ---
 Digital pathology is transforming the accessibility of decision rules and decision augmentation, creating translational assets and changing how clinical development occurs. With the level of data and insights available to medical professionals, clinical interpretation will move far earlier, bringing a sense of optimism for cancer patients everywhere.

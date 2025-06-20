@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "US FDA grants accelerated approval for skin cancer cell therapy"
-categories: oncology
+categories: health
 
 ---
 Using a tumor derived immunotherapy composed of a patient's own disease-fighting white blood cells known as T-cells, with a specific type called tumor-infiltrating lymphocytes (TIL).

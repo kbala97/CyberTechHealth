@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Prostate Cancer Diagnosis and Treatment"
-categories: oncology
+categories: health
 
 ---
 A discussion on Imaging based diagnostic and therapeutic strategies for Prostate Cancer including the use of AI.  

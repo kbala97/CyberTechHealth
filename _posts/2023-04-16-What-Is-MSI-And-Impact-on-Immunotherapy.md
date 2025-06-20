@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "What is Microsatellite Instability (MSI) in Cancer?"
-categories: oncology
+categories: health
 
 ---
 With advances in immunotherapy, we know that if you have cancer with MSI (Micro Satellite Instability), even if it’s late stage, it has a good chance of responding to immunotherapy.  

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Biomarker Discovery from Pathology Images"
-categories: oncology
+categories: health
 
 ---
 Automating the laborious data processes and speed up new drug and healthcare developments for precision medicine.

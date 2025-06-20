@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Image Analysis For Spatial Biology Challenges"
-categories: oncology
+categories: health
 
 ---
 A deep dive into the role of multiplex immunofluorescence for spatial biology and the interpretation of high dimensionality multimodal data. 

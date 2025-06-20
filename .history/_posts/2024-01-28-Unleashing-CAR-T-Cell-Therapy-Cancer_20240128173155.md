@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Unleashing CAR-T cell therapy for cancer"
-categories: oncology
+categories: health
 
 ---
 David West, Co-founder/CEO of Proscia talks about pathology's shift from microscope to digital using software in the modern lab, the big data generated & improving disease diagnosis.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "How does CAR-T Immunotherapy Work?"
-categories: oncology
+categories: health
 
 ---
 Article describes the advances in CAR T, a remarkable immunotherapy treatment dubbed a “living drug" and the foundations for understanding how CAR T works. 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Role Of The Pathologist In Patient Care"
-categories: oncology
+categories: health
 
 ---
 Dr. Marilyn Bui, is a patient-focused pathologist and emphasizes the patient-centricity of pathology work. Dr. Bui believes that pathology and laboratory medicine are essential disciplines in healthcare, and she advocates for their protection and augmentation.

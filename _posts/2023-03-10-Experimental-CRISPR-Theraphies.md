@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Experimental CRISPR Therapies"
-categories: oncology
+categories: health
 
 ---
 In the past decade, scientists are using CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) to edit cell genomes in multiple clinical trials to test the technology’s use for serious diseases. CRISPR has already been used to save some lives and transform others.

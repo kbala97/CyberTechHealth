@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Convergence of AI and Digital Biology"
-categories: oncology
+categories: health
 
 ---
 Enlightening discussion on the application of AI in three buckets for drug development: Biomarker Target Modulation, Molecule generation and Clinical development process. 
