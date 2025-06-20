@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Crossroads between Immuno-Oncology and Digital Pathology"
-categories: oncology
+categories: health
 ---
 
 Discusses the crossroads of Immunoncology, digital pathology, image analysis, artificial intelligence, and the increasing ability to multiplex.

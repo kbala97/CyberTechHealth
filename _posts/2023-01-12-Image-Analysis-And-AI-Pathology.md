@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Image Analysis and AI in Pathology"
-categories: oncology
+categories: health
 
 ---
 How image analysis and artificial intelligence support digital pathology-enabled precision medicine today and what to expect in the future.

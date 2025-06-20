@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Colon Cancer Using Supervised Deep Learning AI/ML"
-categories: oncology
+categories: health
 
 ---
 Dr. Rishi Pai discusses the use of complex supervised deep learning tissue image analysis AI/ML model to quntify visual diagnostic features. 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Colon Cancer Diagnosis Using Supervised Deep Learning AI Analysis"
-categories: oncology
+categories: health
 
 ---
 Dr. Pai from the Mayo Clinic discusses the supervised deep learning tissue image analysis model he developed to quantify visual features of colon cancer to predict clinical outcomes. 

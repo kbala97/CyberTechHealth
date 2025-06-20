@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Global Digital Pathology Task Force"
-categories: oncology
+categories: health
 
 ---
 Discussion on the state of Digitization of Pathology from presidents of digital pathology societies from 3 different continents. Includes some great advice for vendors in the industry. 

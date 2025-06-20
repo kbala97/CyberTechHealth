@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "AI in Digital Pathology and Good Machine Learning Practices"
-categories: oncology
+categories: health
 
 ---
 Dr. Ramamurthy shares his thoughts on digital pathology and artificial intelligence as a tool for clinical trials and discusses the need for more guidance on Good Machine Learning Practices.

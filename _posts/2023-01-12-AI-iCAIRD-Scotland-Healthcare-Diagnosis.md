@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "ICAIRD (Industrial Center for Artificial Intelligence Research & Digital Diagnostics"
-categories: oncology
+categories: health
 
 ---
 Dr. Garth Bryson and Dr. David Harrison, discuss ICAIRD (Industrial Center for Artificial Intelligence Research & Digital Diagnostics) - a program matching AI solutions & research with health & social care across Scotland.

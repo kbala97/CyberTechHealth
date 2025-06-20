@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "RSNA Radiology AI Journal Trainee Review Board"
-categories: oncology
+categories: health
 
 ---
 Stumbled upon this podcast to train participants in the peer-review process for a Radiological Society of North America (RSNA) AI Journal. Great concept!

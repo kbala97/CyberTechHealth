@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Image Analysis and AI for Digital Pathology-enabled Precision Medicine"
-categories: oncology
+categories: health
 
 ---
 Enabling institutions to embark on the digital pathology journey in an incremental fashion would change the digital pathology landscape and significantly increase the adoption of this technology.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "DICOM Standard for Pathology Imaging"
-categories: oncology
+categories: health
 
 ---
 Great podcast on the role of the DICOM - Digital Imaging and Communications in Medicine standard from Radioloty in Pathology. 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "FDA Approved AI Algorithms for Healthcare"
-categories: oncology
+categories: health
 
 ---
 Radiology 396, Cardiology 58 and Hematology 14 lead the pack.

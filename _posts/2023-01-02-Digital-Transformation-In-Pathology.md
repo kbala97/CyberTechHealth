@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Digital Transformation In Clinical Pathology"
-categories: oncology
+categories: health
 
 ---
 Dr. Ralf Huss shares his view on why and how digital pathology should be implemented into clinical practice.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Molecular Feature Prediction Using H&E Slides"
-categories: oncology
+categories: health
 
 ---
 Is it possible to predict molecular biomarkers from H&E (Hematoxylin and Eosin) slides?

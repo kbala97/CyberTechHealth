@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Experimental CAR-T Cell Therapy Beats Leukemia"
-categories: oncology
+categories: health
 ---
 
 Amazing story:

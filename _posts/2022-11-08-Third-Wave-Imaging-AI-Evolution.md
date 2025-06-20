@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Third Wave of Imaging AI Evolution"
-categories: oncology
+categories: health
 ---
 We may be entering a third wave of imaging AI’s evolution, bringing a shift from narrow point solutions to comprehensive multi-finding AI systems.
 

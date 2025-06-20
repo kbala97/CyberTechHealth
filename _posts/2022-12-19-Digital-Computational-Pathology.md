@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Digital Computational Pathology"
-categories: oncology
+categories: health
 
 ---
 Podcast discussing the benefits of digitizing pathology include unlocking value in the gigapixels of data from images to enable precision medicine combining diagnostic & life-sciences research.

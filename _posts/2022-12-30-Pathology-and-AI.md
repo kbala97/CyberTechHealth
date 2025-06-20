@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Why and how should pathologists keep up with AI?"
-categories: oncology
+categories: health
 
 ---
 The role of artificial intelligence and why pathologists should embrace it in their work. 

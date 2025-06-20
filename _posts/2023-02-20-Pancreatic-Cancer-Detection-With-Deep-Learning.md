@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Pancreatic Cancer Detection With Deep Learning"
-categories: oncology
+categories: health
 
 ---
 An automatic end-to-end deep learning–based detection tool could detect pancreatic cancer on CT scans in a nationwide (Taiwan) real-world test data set with 91% accuracy, without requiring manual image labeling or preprocessing.

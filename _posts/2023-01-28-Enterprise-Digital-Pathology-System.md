@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Enterprise Digtial Pathology System"
-categories: oncology
+categories: health
 
 ---
 Building an Enterprise Digital Pathology operating system that is AI-computationally-native for Research, Diagnostics & Real-World-Data.

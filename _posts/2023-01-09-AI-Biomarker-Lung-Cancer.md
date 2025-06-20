@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "AI Biomarker Predicts Immunotherapy Response For Lung Cancer"
-categories: oncology
+categories: health
 
 ---
 New AI-based biomarker can help predict immunotherapy response for patients with lung cancer.
