@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/An image for a blog .png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Microsoft Copilot**](https://copilot.microsoft.com)"
-  image_description: "Colorectal Cancer"
+  image_description: "Copilot generated image"
 ---
 
 This blog shares content that I have read or learned over decades of work in technology, cybersecurity and healthcare. 
