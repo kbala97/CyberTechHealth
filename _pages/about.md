@@ -7,13 +7,13 @@ classes: wide
 date: February 21, 2022
 
 header:
-  overlay_image: /assets/images/national-cancer-institute-Colorectal-Inhibitors.jpg
+  overlay_image: /assets/images/An image for a blog .png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**National Cancer Institute - Colorectal Cancer**](https://visualsonline.cancer.gov)"
+  caption: "Photo credit: [**Microsoft Copilot**](https://copilot.microsoft.com)"
   image_description: "Colorectal Cancer"
 ---
 
-This blog shares content that I have read or learned over decades of work in technology, healthcare and oncology. Digitization and the need to share knowledge as quickly as possible accelerated during the Covid19 epidemic. This blog hopes to share some of the trends at the intersection of technology and oncology! 
+This blog shares content that I have read or learned over decades of work in technology, cybersecurity and healthcare. 
 
 
 
