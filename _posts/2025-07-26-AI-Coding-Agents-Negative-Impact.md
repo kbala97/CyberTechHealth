@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Early 2025 AI-Experienced OS Dev Study: AI Tools Make Developers Slower"
+title: "Experienced Open Source Developers: AI Tools Make Developers Slower"
 categories: technology
 ---
 
