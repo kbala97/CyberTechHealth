@@ -6,4 +6,4 @@ categories: cyber
 
 This article discusses common security vulnerabilities developers should be aware of when "vibe coding"—coding quickly without strict adherence to best practices. It emphasizes the importance of maintaining security even during rapid development cycles to prevent introducing critical flaws.
 
-[Inc.](https://www.inc.com/harry-guinness/the-security-vulnerabilities-to-watch-for-when-youre-vibe-coding/91226483)
+[Inc. Cybersecurity-Vibe-Coding](https://www.inc.com/harry-guinness/the-security-vulnerabilities-to-watch-for-when-youre-vibe-coding/91226483)
